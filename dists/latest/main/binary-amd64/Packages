@@ -24,9 +24,9 @@ Homepage: https://mynewt-apache.org
 Priority: optional
 Section: main
 Filename: pool/main/n/newtmgr/newtmgr_1.0.0-1_amd64.deb
-Size: 2312162
-SHA256: 179311d6e7399d35ab1b6d3ec181befda719f413516252ba7c120adacf1a4480
-SHA1: 7c6b6191511ce7b58560d8c6280882c8ef92642c
-MD5sum: 6a090b825d8b5c9a6e1a93236c4fbee1
+Size: 2310798
+SHA256: cf1e9d0f8fd72b4cbf3a73638f1f82add22b21059c48ae75f6ce9011da8c050a
+SHA1: 7dc84138c2517e0d4a17c16d814361b602a3909a
+MD5sum: 45216b93f1338292605b103ba4c92c88
 Description: Tool to communicate with remote Mynewt OS devices via newtmgr protocol.
 
