@@ -1,28 +1,28 @@
 Origin: runtimeco
 Label: debian-mynewt
 Codename: latest
-Date: Tue, 25 Apr 2017 20:06:01 UTC
+Date: Tue, 01 Aug 2017 01:07:19 UTC
 Architectures: amd64
 Components: main
 Description: Mynewt debian package repository
 MD5Sum:
- 86ebc4a0e6161a6fc85ad74a8c9d592a 1048 main/binary-amd64/Packages
- df647f65b00aef58f5c500d807b45639 569 main/binary-amd64/Packages.gz
+ 901e6aee59f56ac9de44dd8f0c2c03e6 1052 main/binary-amd64/Packages
+ 06247955468827e2c1ec291d6d0f6b00 561 main/binary-amd64/Packages.gz
  a2e02f8aa6cdf7eeb73fc0e52107d020 121 main/binary-amd64/Release
- 4a9c311d7c7349ed2394b7e794ccf305 2171 main/source/Sources
- 56d368bec3af44b7d25030d42c6e886d 864 main/source/Sources.gz
+ 30242b23086c9717ee8393b7118eed4c 2171 main/source/Sources
+ 320a848b56d17b4b84bfb3c48e3d4b4e 941 main/source/Sources.gz
  7faeca75bc922fc0168a5fcf7f87eead 122 main/source/Release
 SHA1:
- dd5bd176c2aeb3c1639d4a32517cf96af81eb76d 1048 main/binary-amd64/Packages
- 707d60c6d27f2606b2ab9b91f9a97c99e10bbbf0 569 main/binary-amd64/Packages.gz
+ c862e374942f2bd9fe9cefb07adedcb76083d4a6 1052 main/binary-amd64/Packages
+ 24f973d691bde71f81fb3a514d08a4a6c9e9f143 561 main/binary-amd64/Packages.gz
  de9c1085d0d70e13a0ff83935216dd05ee49610f 121 main/binary-amd64/Release
- 49ef4db80fa33fb45fd6a50ae8559142ed237617 2171 main/source/Sources
- c29e8cc50b0795d26990bf8c7e7ed608d87026a2 864 main/source/Sources.gz
+ a5ff64629009ec744307a9d09e3d4901f255b1c9 2171 main/source/Sources
+ d69a92647ed36fa9f37d4fc726d1469c60b99c44 941 main/source/Sources.gz
  b38b1221c4852bd5935f1ae1ab50cc6ed4258f3d 122 main/source/Release
 SHA256:
- f6faa7aab72defba4ae5f598d9e32fb824c4c615d1e08d598e8ea053a43d18ac 1048 main/binary-amd64/Packages
- 52fc1fcaddc0965fd41732e41edf3b25470c36d3134079593f37728e021a2f26 569 main/binary-amd64/Packages.gz
+ b35eb5ca04ae5e83ae1a8e8c3a978fc3e75c24cb4147e8ae66a09e7762179d97 1052 main/binary-amd64/Packages
+ e655c9320080c4fff65453071aa492188f47615a0aa1a6c268bf5ac3b0f8c678 561 main/binary-amd64/Packages.gz
  b1497a1bda1c7a8f5b92f798825603b96e956dbe94c632ace8988c024507b7cf 121 main/binary-amd64/Release
- 8b9cfa1977be55025a817573eb38a563809ef8ae3ad13601b53f91a816569a57 2171 main/source/Sources
- e076b10929c3777f1b103b1259fc4efc40461e5b859f5bb244b91ad3c1ed1e79 864 main/source/Sources.gz
+ e2127c4f4f32b1066c62e47d7aafa5282e83b84f705c576588b76476f4f1af54 2171 main/source/Sources
+ 988b7deebf06d1b21761360432ea2b748f83074bf47345081e75c4111857ab3d 941 main/source/Sources.gz
  55674c60344e43b3c5e5c0de147e85304714175f2e4ed33428e02d223649fbaf 122 main/source/Release
