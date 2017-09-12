@@ -1,32 +1,34 @@
 Package: newt
-Version: 1.1.0-1
+Version: 1.2.0-1
 Architecture: amd64
 Maintainer: Aditi Hilbert <aditi@runtime.io>
-Installed-Size: 7164
+Installed-Size: 7494
 Depends: libc6 (>= 2.3.2)
 Homepage: https://mynewt.apache.org
 Priority: optional
 Section: main
-Filename: pool/main/n/newt/newt_1.1.0-1_amd64.deb
-Size: 2004954
-SHA256: 2cc9d0048fafebb340bf69df541b101bcde5520723486aed2d96c783e714f795
-SHA1: d59bff1c33569999c3c94a50639f323cad68c7b4
-MD5sum: 512d93437f2ea435ae4bb6eaa2a8b3fc
-Description: Package, build, and installation system for Mynewt OS applications.
+Filename: pool/main/n/newt/newt_1.2.0-1_amd64.deb
+Size: 2106468
+SHA256: b68972d39883407e72fb3f9f339eba16ddc699149ec9c7d632a26bd152ba4f49
+SHA1: 588e9138f52dbeda8b7f36f92766da8c4a767619
+MD5sum: 2483431450cf90e2abc3968cb9889e0e
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
 
 Package: newtmgr
-Version: 1.1.0-1
+Version: 1.2.0-1
 Architecture: amd64
 Maintainer: Aditi Hilbert <aditi@runtime.io>
-Installed-Size: 10128
+Installed-Size: 10506
 Depends: libc6 (>= 2.3.2)
 Homepage: https://mynewt.apache.org
 Priority: optional
 Section: main
-Filename: pool/main/n/newtmgr/newtmgr_1.1.0-1_amd64.deb
-Size: 2413264
-SHA256: 5140c870bb9f359b455fed7e94ddb56b819b5ced8b2ff8912a71178df533045c
-SHA1: 4ee3bbb2069409df9e36dad63a006a9a1ca55c2f
-MD5sum: 33085a8fc915c69e3c40348b55b1f499
-Description: Tool to communicate with remote Mynewt OS devices via newtmgr protocol.
+Filename: pool/main/n/newtmgr/newtmgr_1.2.0-1_amd64.deb
+Size: 2550620
+SHA256: 0a92c094dd7826e8a5fffa1ac2b6e210baa85ceca1eb9cd31e01c0b78614c8b5
+SHA1: e49155064884a7ee1a39d2f5562fd7f5bbb210ef
+MD5sum: 1058ca20c2f61eb5fefd615b2916414b
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
 

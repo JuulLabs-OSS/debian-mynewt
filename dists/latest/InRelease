@@ -4,44 +4,44 @@ Hash: SHA256
 Origin: runtimeco
 Label: debian-mynewt
 Codename: latest
-Date: Tue, 01 Aug 2017 01:07:19 UTC
+Date: Tue, 12 Sep 2017 01:48:33 UTC
 Architectures: amd64
 Components: main
 Description: Mynewt debian package repository
 MD5Sum:
- 901e6aee59f56ac9de44dd8f0c2c03e6 1052 main/binary-amd64/Packages
- 06247955468827e2c1ec291d6d0f6b00 561 main/binary-amd64/Packages.gz
+ f9a89fa161abcf22565358fb225d7f7f 1082 main/binary-amd64/Packages
+ 215f596ef08b4676d8141b17284c6441 520 main/binary-amd64/Packages.gz
  a2e02f8aa6cdf7eeb73fc0e52107d020 121 main/binary-amd64/Release
- 30242b23086c9717ee8393b7118eed4c 2171 main/source/Sources
- 320a848b56d17b4b84bfb3c48e3d4b4e 941 main/source/Sources.gz
+ 8a0a670533efc030332b0aac6ecf75c5 2171 main/source/Sources
+ e5d4c3408c19d01b1b25a5893dc07efa 947 main/source/Sources.gz
  7faeca75bc922fc0168a5fcf7f87eead 122 main/source/Release
 SHA1:
- c862e374942f2bd9fe9cefb07adedcb76083d4a6 1052 main/binary-amd64/Packages
- 24f973d691bde71f81fb3a514d08a4a6c9e9f143 561 main/binary-amd64/Packages.gz
+ 9b6d6cbb101bb5c7ee1897c0a7b946b164db49bd 1082 main/binary-amd64/Packages
+ 0ada673a4f7c5db991468f5e398f48584a860748 520 main/binary-amd64/Packages.gz
  de9c1085d0d70e13a0ff83935216dd05ee49610f 121 main/binary-amd64/Release
- a5ff64629009ec744307a9d09e3d4901f255b1c9 2171 main/source/Sources
- d69a92647ed36fa9f37d4fc726d1469c60b99c44 941 main/source/Sources.gz
+ 6053014cc709a724b690c58456527b7ac0e660ce 2171 main/source/Sources
+ 9400a1174e9b5470864e3a8c795c2a7c553e8b36 947 main/source/Sources.gz
  b38b1221c4852bd5935f1ae1ab50cc6ed4258f3d 122 main/source/Release
 SHA256:
- b35eb5ca04ae5e83ae1a8e8c3a978fc3e75c24cb4147e8ae66a09e7762179d97 1052 main/binary-amd64/Packages
- e655c9320080c4fff65453071aa492188f47615a0aa1a6c268bf5ac3b0f8c678 561 main/binary-amd64/Packages.gz
+ 7f22cf7a0d22eb41d99e9310c20e224da434e033f6133230d73f8c634b7025d6 1082 main/binary-amd64/Packages
+ 7ed5673fcdb0613365313b463443f8ef4e767b59b2d7eadb08e270ed7458f2a4 520 main/binary-amd64/Packages.gz
  b1497a1bda1c7a8f5b92f798825603b96e956dbe94c632ace8988c024507b7cf 121 main/binary-amd64/Release
- e2127c4f4f32b1066c62e47d7aafa5282e83b84f705c576588b76476f4f1af54 2171 main/source/Sources
- 988b7deebf06d1b21761360432ea2b748f83074bf47345081e75c4111857ab3d 941 main/source/Sources.gz
+ 69588569e91e96a78c749d8bd71f8595f5d7f0b19dfa0360058650e7a46b6975 2171 main/source/Sources
+ 937aa3fc8642fe608d87ae9ef448da97a1334de43aa568ae2979473b6593b753 947 main/source/Sources.gz
  55674c60344e43b3c5e5c0de147e85304714175f2e4ed33428e02d223649fbaf 122 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCAAGBQJZf9RIAAoJEE6agZJQtLEEaFwQAJ6GgfnqGEW1Bfr1WYHgJ7CD
-tIZHxwJJkiK9v1LR30moU5KXfQ0ppEjb/dfaUNs37s7pgP6UXva89e9uZ04bvEsk
-dxSDCk38M0Ic7ToWzCWddml5s7W5oBdtlx+GIB8nWqdSE0yqyGLI3wh7a3LkNpmU
-gDyf0zT1KXBxEdvqwvf7EVw+f0XPgXPNLy3akrisjP09J2lLg/AWV1zHp2LZA0Z6
-jnEZVu1hhhHB9p2d7ukQ0VW7bbX8xCP8vnUb1rlrt+L2bhpbTk5XTbzawcxrcznC
-OqSm17gEEsbKwZWKcHlKa8hFKqNwu0RBDFzvKsn+65ZjwASTapUhl1I5AFBWwivM
-2E9efRCYR8grB8EVKfXT9jqyZFEPkALjGeUMndwwDVTHW2xjpMxwMRl6i5VgroQ0
-8Gd3yu9vSz9tty3gbp7ejMclVK5ixoR9grMww79B+0eLJmwH6fv6lD0c1BrhraVR
-oNBaGaCk/hJdZDXDSvsGFz7wDpDe9BVKg8SKg8HICX+UL/FlX5Myp6mtRZEVZdvu
-7/QPSOD8g6CqK5uvMtr9wMLiXw1te8hjuFZXR40X0Xot7yAF6tBFP8eEj1N6DnkR
-CGsdcLjBj6TYFCJtSyGK9Wt4uD7IveXCQwui9w6kHtR+VMhPKMTT1AYSsT1foF2K
-pD60Hhito6wtu66u0iXQ
-=iWHq
+iQIcBAEBCAAGBQJZtzzxAAoJEE6agZJQtLEEZJsQAKaul39y8TwFgC1TqfV2bDCy
+S5/Ey/6Z3C94zpATIcSaQ4WZLQZQb6l4PV6EfPzGsDHt6Hsdo3oTLCLoYW39k3oh
+iurEPeVcxXcFJ9dUxUip8ggViq/3uQtgHuIuAkLxbIgQOzD7lFt1pi59eSoUR49f
+/k2TPxaRIx7tLJJOpgZPBaMFtF5qj+LUM5cRoCP+QM57zaN1jE4vAYfHZwECUxAy
+Z9m+53AH6hI+5zalZA+8iHZxX/LSGxETA6dC4Q4kS0zAKenGAmhWsJ2WWEh/c9Qj
+p/ORZIn5iqAhMEDZdF49+lw7FrS9IQnGCaHzjG0Oi7BjMjjEwubsAoMdBEeYCRWR
+BrVZUD0Pt3RAC4OVs2V5Lvna7Jz8xM/EZen/bjgCrfhfb6GcsAXLk1fdz1XTinDn
+qbmHFMXwPH8SouQZA2zvMrgmIdG9IRX770NiyGNZG/7n7fjX0PreXuIsWwt+a7Ky
+/1RTZrf73M57I8UY+q8Y093tZ/A8URgWwSk2hdBhhHIphSQsf40p9+XnDPFLHkrF
+uHaaOCE3PuKr0UO5jZ0R2JlJA/MoxCdRVYj0+jy+O9UEqDq0+kDxl8epapdwpkXB
+hoxc/ll4XzSF+7KE5H1T+rG5fkGyFaQaLSlr4fBiUaIF7GCGBTrwjMeWSGcS4kpB
+59SPG5mP0W1T51n/AYpW
+=fSg2
 -----END PGP SIGNATURE-----
