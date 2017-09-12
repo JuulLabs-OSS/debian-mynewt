@@ -4,4 +4,4 @@ Codename: latest
 Architectures: amd64 source
 Components: main
 Description: Mynewt debian package repository
-SignWith:  E77B58483F4BB318
+SignWith: 4E9A819250B4B104
