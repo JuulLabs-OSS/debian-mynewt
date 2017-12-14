@@ -1,34 +1,34 @@
 Package: newt
-Version: 1.2.0-1
+Version: 1.3.0-1
 Architecture: amd64
-Maintainer: Aditi Hilbert <aditi@runtime.io>
-Installed-Size: 7494
-Depends: libc6 (>= 2.3.2)
+Maintainer: root <root@unknown>
+Installed-Size: 5348
+Depends: libc6 (>= 2.4)
 Homepage: https://mynewt.apache.org
 Priority: optional
 Section: main
-Filename: pool/main/n/newt/newt_1.2.0-1_amd64.deb
-Size: 2106468
-SHA256: b68972d39883407e72fb3f9f339eba16ddc699149ec9c7d632a26bd152ba4f49
-SHA1: 588e9138f52dbeda8b7f36f92766da8c4a767619
-MD5sum: 2483431450cf90e2abc3968cb9889e0e
+Filename: pool/main/n/newt/newt_1.3.0-1_amd64.deb
+Size: 1470322
+SHA256: 66dfd8f22e9530e4e086cb85487cb49285f9e683d52de7dd8e9eca0bd2c26ae8
+SHA1: 735aa34be7da0f806ef372aa17fb5512ea9f6e4c
+MD5sum: 2974086868b2d345adbcafeac51196ab
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
 Package: newtmgr
-Version: 1.2.0-1
+Version: 1.3.0-1
 Architecture: amd64
-Maintainer: Aditi Hilbert <aditi@runtime.io>
-Installed-Size: 10506
-Depends: libc6 (>= 2.3.2)
+Maintainer: root <root@unknown>
+Installed-Size: 13013
+Depends: libc6 (>= 2.4)
 Homepage: https://mynewt.apache.org
 Priority: optional
 Section: main
-Filename: pool/main/n/newtmgr/newtmgr_1.2.0-1_amd64.deb
-Size: 2550620
-SHA256: 0a92c094dd7826e8a5fffa1ac2b6e210baa85ceca1eb9cd31e01c0b78614c8b5
-SHA1: e49155064884a7ee1a39d2f5562fd7f5bbb210ef
-MD5sum: 1058ca20c2f61eb5fefd615b2916414b
+Filename: pool/main/n/newtmgr/newtmgr_1.3.0-1_amd64.deb
+Size: 2621240
+SHA256: 5557ef1065ea442e92e1b56cc15147a07606f53ccb722ba3fcf5f7a28748c282
+SHA1: 60dc9540f13790a5b0e4622ec6c1fda2b8b47605
+MD5sum: 80ae05f1fc6e5fc628cecef7e4692fbf
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
