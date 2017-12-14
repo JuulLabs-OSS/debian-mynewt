@@ -4,44 +4,35 @@ Hash: SHA256
 Origin: runtimeco
 Label: debian-mynewt
 Codename: latest
-Date: Tue, 12 Sep 2017 16:31:10 UTC
+Date: Thu, 14 Dec 2017 18:20:24 UTC
 Architectures: amd64
 Components: main
 Description: Mynewt debian package repository
 MD5Sum:
- f9a89fa161abcf22565358fb225d7f7f 1082 main/binary-amd64/Packages
- 215f596ef08b4676d8141b17284c6441 520 main/binary-amd64/Packages.gz
+ 21605b2d4c1d5858f70899aac0032a8d 1052 main/binary-amd64/Packages
+ c27c322a83f863c5c6acbf0c4d859c55 511 main/binary-amd64/Packages.gz
  a2e02f8aa6cdf7eeb73fc0e52107d020 121 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
- 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
- 7faeca75bc922fc0168a5fcf7f87eead 122 main/source/Release
 SHA1:
- 9b6d6cbb101bb5c7ee1897c0a7b946b164db49bd 1082 main/binary-amd64/Packages
- 0ada673a4f7c5db991468f5e398f48584a860748 520 main/binary-amd64/Packages.gz
+ 41108e48c628109be021b2372aad6eec37ee0841 1052 main/binary-amd64/Packages
+ cb73d44ea1a0ca430d15fb86fbe8004e6ae4b899 511 main/binary-amd64/Packages.gz
  de9c1085d0d70e13a0ff83935216dd05ee49610f 121 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
- b38b1221c4852bd5935f1ae1ab50cc6ed4258f3d 122 main/source/Release
 SHA256:
- 7f22cf7a0d22eb41d99e9310c20e224da434e033f6133230d73f8c634b7025d6 1082 main/binary-amd64/Packages
- 7ed5673fcdb0613365313b463443f8ef4e767b59b2d7eadb08e270ed7458f2a4 520 main/binary-amd64/Packages.gz
+ ba257a2bc4685790825a6bc3f50f12032c8f778128ab5a8e7e71ae9593f07fd8 1052 main/binary-amd64/Packages
+ 85f9a7e06315750332ac13225b5fbd95428d85afef58786bc130ec3f205b42a3 511 main/binary-amd64/Packages.gz
  b1497a1bda1c7a8f5b92f798825603b96e956dbe94c632ace8988c024507b7cf 121 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
- 55674c60344e43b3c5e5c0de147e85304714175f2e4ed33428e02d223649fbaf 122 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCAAGBQJZuAvOAAoJEE6agZJQtLEEAqQP/2XSmMbhrDl6NH0Jre/ay/ER
-emEhJNk48eMJLVDoheKyIU9GvFVFxSRCiGYKRuP0YQfQyBAiSdgtvHy1R4JuRlVx
-T3jfvcP4e798plu88ni9DMQurf8nhq7BtfPBc7JIthrIt4obgNND9N6tmzOPnrLa
-uAuE6f6RA7vmwZBvOwr51X52FyCCaoXHa5BJUS+qht6LrCBU+OwTytLv1V+8V2Br
-RnLm/hpU1JfmOS2wqQWZTNk1sIZlgCydepyo8hGecIy8eRj7875idlmj89SIocQC
-mJsXvyGBBaNkEMLR6BUwwG8gtMaMyE14ZibEp/hse4go+fYCaJgatowt0p6pMTn5
-IUtzGulHO3f6pdjuPPx32L0OJnJtkn3lVwk3oJCO971tQoa0ey/EGJ7jIRQjScdN
-rv+S5rFWTBiBEmzBUat5UVFuaswa4PDgwAHri2rXZyecBi2mlmDtPNcu6uvvIgBR
-0uOvAfCQqnD7kDSGdnVj2JL9SARiPF7ErK6LfJ127ZMlmCKwFWDXRisVtLTphW4v
-7Yd1OXOUhrAeC3FcexNrHGPsAHNVnuKv+Q0CjgE8FNuetpXKExW8m8rLX3yPA1Vf
-Ni2Kqpe0h6A+Q6x0ToEHIxBP3SPOn4CPIzV+nlBg4LSbkuubs4VKyxn5L89Qv1B0
-umjEZFkSLwq55btwQAoa
-=0pm+
+iQIcBAEBCAAGBQJaMsDoAAoJEE6agZJQtLEEKUIP/1xlW2jcRh+0aR4wxCh5uA3I
+m1BCUCRlERmKBKn7CfPCEGhVfiJn2xrgbfQh6T8B+qAoA1OoSFzJ53jJVhKg/cKZ
+1wk6n+5q7UUWwjTBpCAeVfguLVtSROo5euCbygcYHs2IyIH0ENsJxw/zfM/yHVW4
+JqxuziB+0Xhz1+NoDlMlPO5WonEYHjXLFLwRnpxqMl05JCQhbd2Ap2t661qI19rp
+O5mPVFf97YIALryLrgWXxdfpKMSQPYidNAC27B8z4isoJyPLAcvx8I+Xm2H3gB4S
+gjiU/SVIYKKbeTL59ImhkqCrfCHvF2zTSe4NJKrfxoFL1CKITqDyYKKTs37u+qIE
+fctJajcCXq2avyJW4AKvW5Ry/11IfDUnOFevdlRNXtOdZlIg/pgpLJP4v53sz460
+nHMaDlWWBOS2g+X5HM0Q1rU7VsLEadlMflMv4Iowq6A0AnWEA8r+iJ/F9OvzqRuC
+J7YG4IqRw8HvOuBwQna47o7f6pxfIMVSTN4VuwVFHWuUKiJXPFWX9HQ2nIkExvqV
+u4Z10+b5PVffCFZCZ6FkgoHOx5QawLwJGt2UEW6wppOCZOsbU2YATHSiDF2WXc7R
+TnUytlszWetEzVT1CEEX2zqKcaExC6Munw1aZbrTdTL8bClbUAvciDSMEEIs8RzK
+FnaUpK9zXdaPZkC4qKDD
+=wj2X
 -----END PGP SIGNATURE-----
