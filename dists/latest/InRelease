@@ -1,38 +1,38 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: runtimeco
 Label: debian-mynewt
 Codename: latest
-Date: Wed, 04 Jul 2018 14:09:10 UTC
+Date: Thu, 29 Nov 2018 08:49:22 UTC
 Architectures: amd64
 Components: main
 Description: Mynewt debian package repository
 MD5Sum:
- 765c3bc1a3cecda0afdef5b45d86814c 1011 main/binary-amd64/Packages
- 41a2abba54de5f43da7bec9cc3de96e0 536 main/binary-amd64/Packages.gz
+ f2e2a367a91f314664cfb1b655ffe160 981 main/binary-amd64/Packages
+ 2d22dad2524e595b4d8dd7f2ed455493 528 main/binary-amd64/Packages.gz
  a2e02f8aa6cdf7eeb73fc0e52107d020 121 main/binary-amd64/Release
 SHA1:
- 81a7a8ff9603fd7cf9b11da9313b37edb35390f3 1011 main/binary-amd64/Packages
- bd14d63b97f00b31ead243a3aa310f36279dc401 536 main/binary-amd64/Packages.gz
+ 0d0cd83c2aa6fa65693ffa1f47cb48ee51feeb4b 981 main/binary-amd64/Packages
+ fc554954bf68f1003ab5459d0e3a86bd8b93b514 528 main/binary-amd64/Packages.gz
  de9c1085d0d70e13a0ff83935216dd05ee49610f 121 main/binary-amd64/Release
 SHA256:
- c6a6abd0a11903f5c81e9878e0a28126bf36ca651e1f331e774482cdddda3b1b 1011 main/binary-amd64/Packages
- 93be7fddeb040ae70475dcaa84f85d92bbb39ec5e8f58102e7e06c380fcf83df 536 main/binary-amd64/Packages.gz
+ b9454e0396c97e47b4582b57c1d24c8370a4f1a1d0c61c1af5517c646b45d5ee 981 main/binary-amd64/Packages
+ dfa7cb06ea19f325d2a7657b98d0c3d2f12300ae34b504314118dcc7a2f5e063 528 main/binary-amd64/Packages.gz
  b1497a1bda1c7a8f5b92f798825603b96e956dbe94c632ace8988c024507b7cf 121 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCAAGBQJbPNUGAAoJEE6agZJQtLEEWaYP/A/1UQClik5GcgF+qzo8GXOg
-q/8nYF8VrEYMUfp5umKjoRrWJPpt1LWvnX9bBL4oLTfHnmXNs6jmGO65nEnnfK/w
-zN61rlsmfjR290h8RAQgP6ouvVYs6sc78B5ykSd2Dl70AIxlU2CMkl5vR3PMAibq
-H3u5lgy5GVbujspUG3OYkBWdV6RDeA8V9xVHL8LO6EIW22etucPEz3jXkZds4QZ0
-O/vShRZDrGOXmIyZrRhKtlWUNO9WlNbYObv3DgcSTmQnpIF2gMoYGW1b7KAj0drI
-Lj0/6VQC0L/xwhcV0qiw2uvChCE+wEOnOlW3hqI/BabqXnYy1dAjoE40bPyGV14u
-7CGW319tGYUJGuDopDUE4u/7K32uWbzTT84yOLLZvjbnbQpqHi9M9nkcypXynxHS
-x1+uLRJpggMz4wE8Tm9Ad1KRJC/VfGdYzKazF9qNlZbzE36SpVmdK6nm/uK9Ng1X
-QqvJg1O0ImS0eddmXx3l1mIMerHZ97v+xfwHqQgHl+lQcdGlrlVWclOQi/AJ0pid
-CZH92WuHCHFygI8w+LVfwcJPZcJU640OVeKJUlvRzidX4g1V7qLM+eG4EGsREldA
-W3zINQMzXD/XCPDgsvQcYbrxWTYtEtEZ+9WzQZwiSAMylvM/y2tkxM9/AWxzJAE8
-zKBV6oukA5O4TL+I2xi9
-=nqK8
+iQIzBAEBCgAdFiEEqrMQfWyBZGGFsGtXTpqBklC0sQQFAlv/qBIACgkQTpqBklC0
+sQQ3og/+KrD/uSYOIOx95Y/qeOs6WxKYBb1Z9wM+TUuNPStqe9L0Iz2OS7MwpDei
+wlaHB3sTCZi45Ge51RVx6TJfetBasnRhDw1o+DlJgbnGsDWcKQTtfDUdx/VIUBg8
+hVtumvuuSYTPe4cUtW8tPazto9HgnarGPZsdJIP6C7SKmlTl0z2u0hLjA/oFyFlB
+I63RgpaHxIhmALzxoBwbT6jWGyIQZEtXl1OsSehwUHHgZDaA436ON2zL+u9tipVh
+9VrPM6QJxl1HaD4u7ZSt/AhTWHR02N471PQ6TPRx0efKhHvXo8WyXtp9vZJX/ehV
+EEim4ZtE9ETSFGs7V6T7hRh2ak0hAemX61gplcsXQUSJ8wImjOred0aWI/LgwY6w
+UnzK2Plxr4zHWBwk2oDtQb/+lj0ZYKYLTG9+ZVSXEZDqATy+iTh+QBjvvNZ/bmwz
+3FwG85NIVpIO4S9pMCsGj5RAt1PiwtXFS62ciuI+OVFlclGmIskiEagtQb5yc470
+PziIObkmE2MbQO5UjDmUHJ2yvPvarGo1UKxgfvtpJPd6wONiM7+7uGTonSCnX/IY
+cRrD+EBeJcRgtwM+UxDQVhGaAmkOE7DNuKKsLoJp6ByEqKZaVpLkx9R0B2IM3Uhz
+FO9MsiSIXEspsX8uuoFl7qf7l5YOI06+WKgXieQ0Uk8S6ggNGaQ=
+=oedF
 -----END PGP SIGNATURE-----
