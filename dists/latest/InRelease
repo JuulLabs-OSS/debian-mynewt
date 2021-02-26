@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: runtimeco
 Label: debian-mynewt
 Codename: latest
-Date: Tue, 03 Sep 2019 17:46:15 UTC
+Date: Fri, 26 Feb 2021 20:02:59 UTC
 Architectures: amd64
 Components: main
 Description: Mynewt debian package repository
 MD5Sum:
- 6006569f5389c3d1d3c28b8143d305b4 1003 main/binary-amd64/Packages
- 8d1bef34edaf04a9ebbb4ba472bebc52 532 main/binary-amd64/Packages.gz
+ aab47d97f0de6afb4ff65a73cc532a7e 1003 main/binary-amd64/Packages
+ 39ae18314cefdaa9a4f30b78d08ba464 529 main/binary-amd64/Packages.gz
  a2e02f8aa6cdf7eeb73fc0e52107d020 121 main/binary-amd64/Release
 SHA1:
- f7987a0e1f4c4bdfb156e9f3751716ddf8f13162 1003 main/binary-amd64/Packages
- 5add50a5d3c1d9573fdea0a0df4fc6278fa551b8 532 main/binary-amd64/Packages.gz
+ 14576dc757390c9ecd6ac4e09b5e5c8721c375fa 1003 main/binary-amd64/Packages
+ 79ab6cadedd62f862824e637d256eade99acdbe5 529 main/binary-amd64/Packages.gz
  de9c1085d0d70e13a0ff83935216dd05ee49610f 121 main/binary-amd64/Release
 SHA256:
- f23447ce89c7d3651c9ff3256e60649c90053e9b1e70b7b7d6598446c21fb53b 1003 main/binary-amd64/Packages
- 96dce81c0f252c54936ef6b2136c1f38f0478f4b4942eb754671138e1d0dbd2e 532 main/binary-amd64/Packages.gz
+ 22e87a765621f164d1ce08e3ccc93149ef0bb8cf29f3cbb707d16a199ab597f5 1003 main/binary-amd64/Packages
+ 9062322d9492520755f1784b0e41cb49f0278797e7953b9f7a5c80ee1fd494f1 529 main/binary-amd64/Packages.gz
  b1497a1bda1c7a8f5b92f798825603b96e956dbe94c632ace8988c024507b7cf 121 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEqrMQfWyBZGGFsGtXTpqBklC0sQQFAl1upugACgkQTpqBklC0
-sQSGeg/+KoKb5CRsKUlZfBESNwt5Mwt1s5zJbseHsA/5r5QYG7I9kzXZUpVJwzJ3
-PTr0/7tr7HdkpZ6baW4KlBjoHbZ9IcTYFNAUBC6Iy3HT0/bJ506d5s4hLFYADLZa
-tkPyuHJaL9Hyevo8xRqbuQGxXG+TqhnAmrOmC9Op+3CuaRadjXGjSOKEX5iZTRmO
-1iB3zKIJt1ri0Ce/a7F0QpNSeAEL1Xd69+CE21UySWAuremqIlTi+I0ZomghS2fX
-HA2N+4/dy3XMId7SFek6uQDqV2xO91SU3JakYnaSAPlNol+AFQq292u/Yhp91Mcc
-kYSceLIrFCSK4F1gujGv2Q46N4+51TYzRmNRLahEJHo3DOqqmmHQYcGgq6O++9O7
-YDxsJf//k2wVAUb3NLW0st6eFn3PMneBam+KFmU+Z+MGt9gBWdKvjFcl3iUZe1W6
-wrk7ByDky+eXXrbzNzGDwZd5TO6aJ+8Gw3Nc6fpykXbocMljRAsJGNZ1VkHD4PD3
-AXHejFtWBE2Fptfm03QZ3otF2fNRYozTuiJb2xtoUDiNjwXoR9Rw0es7Au16FY28
-yyl7jSQLODgGOVfBr2jUIiUfv4Y3hM2lRdrUSn3bf+BMjWWASyBWYyUNVCHhHdm5
-Ob/yX4WmgPbUO2RtlWsVBQdvxn4ecNKOPoCqR9e29Zwl2Z2mOns=
-=GkP6
+iQIzBAEBCgAdFiEEqrMQfWyBZGGFsGtXTpqBklC0sQQFAmA5U/QACgkQTpqBklC0
+sQTBAQ/+Jt5LirxqyqU0zg4B7wPqpQcXKN6HxEkWIDNA0m7ig+G7y9dwQqWnHuRU
+Ylzo5iLYWXO2xOG5X0drChefWLVlHZALXZyw+UPzucFSSnhDqkrQlEPIgEfYgY+W
+3n5EoRWkEpl7oKNXsN8AWasNMXRb6S8Qxj2Sp6yyVrB+AG7Q6SS7w9zt5uIvQ+En
+NikUiUswKDSzxlHT9nL5ME+M3QmGqfOMRMiG0fYpaOIyXsonkO/J7btaxmZvd+XI
+FZnpPVrsslZxChKAE3fEvgQPb0SS7B9NHuMiKkAk1D4cqc4D2m4pxdODZb8lykvU
+7ft0M1wwy9fe56oIvjWmUxpXzEnY1ypXXE5Yq5LRBrnX4kCgIxWt8DcrIJMwH6t6
+6xzP6bx7vuVQ6qxPvYhZqpS6qKEH1yfztjeW/nKJfS9gRgZokfBODhC71MlLmjCz
+UYfFPD+avUbzp+wf4Qu/KX+PSNiLqmpxs01dyZTkoC8dQju4TKEi+BIslLR1pPf/
+lyrJ3x0477XzaovYx3AqFc9cm1mWpgMyYedmy6AIC4hDOHdustQrr/GWHYbSLZXK
+T3IoeyQrJSKVk41dr5Y1tQtX9vu8QKXZIdRS3/ojd3pBE42ytS9y/fp83fl0caIV
+05+ki6fWR4RS7terPmUhAuQPfS6GGkWq2tnUDZkvNp+UbDaZT/c=
+=f+c3
 -----END PGP SIGNATURE-----
