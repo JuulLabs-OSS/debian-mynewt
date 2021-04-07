@@ -1,19 +1,19 @@
 Origin: runtimeco
 Label: debian-mynewt
 Codename: latest
-Date: Fri, 26 Feb 2021 20:02:59 UTC
+Date: Wed, 07 Apr 2021 22:42:12 UTC
 Architectures: amd64
 Components: main
 Description: Mynewt debian package repository
 MD5Sum:
- aab47d97f0de6afb4ff65a73cc532a7e 1003 main/binary-amd64/Packages
- 39ae18314cefdaa9a4f30b78d08ba464 529 main/binary-amd64/Packages.gz
+ e24a421a8ed9053b90fcc3603e0153f0 1003 main/binary-amd64/Packages
+ 302e4da5d9d02c6a4744e43431264de6 534 main/binary-amd64/Packages.gz
  a2e02f8aa6cdf7eeb73fc0e52107d020 121 main/binary-amd64/Release
 SHA1:
- 14576dc757390c9ecd6ac4e09b5e5c8721c375fa 1003 main/binary-amd64/Packages
- 79ab6cadedd62f862824e637d256eade99acdbe5 529 main/binary-amd64/Packages.gz
+ fcff73bd455808d616e52648321d0634a58346fe 1003 main/binary-amd64/Packages
+ 391a2c922e66eff764a6e2cedf0e2a026c9757f6 534 main/binary-amd64/Packages.gz
  de9c1085d0d70e13a0ff83935216dd05ee49610f 121 main/binary-amd64/Release
 SHA256:
- 22e87a765621f164d1ce08e3ccc93149ef0bb8cf29f3cbb707d16a199ab597f5 1003 main/binary-amd64/Packages
- 9062322d9492520755f1784b0e41cb49f0278797e7953b9f7a5c80ee1fd494f1 529 main/binary-amd64/Packages.gz
+ b3f8894468ab7791c0cab6bf45776cacb0aa368fc4ac53d7df13a67ad99bbae1 1003 main/binary-amd64/Packages
+ e4772219b2759c113ac230cdef56a1cdc8850c8b30d806861de002fc298785b4 534 main/binary-amd64/Packages.gz
  b1497a1bda1c7a8f5b92f798825603b96e956dbe94c632ace8988c024507b7cf 121 main/binary-amd64/Release

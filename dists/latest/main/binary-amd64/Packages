@@ -1,32 +1,32 @@
 Package: newt
-Version: 1.8.0-1
+Version: 1.9.0-1
 Architecture: amd64
 Maintainer: Fabio Utzig <utzig@apache.org>
-Installed-Size: 7216
+Installed-Size: 7293
 Depends: libc6 (>= 2.4)
 Homepage: https://mynewt.apache.org
 Priority: optional
 Section: main
-Filename: pool/main/n/newt/newt_1.8.0-1_amd64.deb
-Size: 2216664
-SHA256: 5941953a8b28e04026b38ab79aa06c9ff9ce3dbf401aaf37e1bfdda970c25b54
-SHA1: 4594c847ab5e4b0bffe8cb33e869530485df720c
-MD5sum: 924c533f30607824c3549a5e511f0ef2
+Filename: pool/main/n/newt/newt_1.9.0-1_amd64.deb
+Size: 2238456
+SHA256: a32a41a2b687055721f04960044dc4538cd445afb8f55d036d78033e6708d5bb
+SHA1: ba1d70a21e729ab2e024c32bd2c0efde858fa1b8
+MD5sum: 1f3ab810c0a5c417bd168cb5b71f237c
 Description: Build and package management for Mynewt OS applications
 
 Package: newtmgr
-Version: 1.8.0-1
+Version: 1.9.0-1
 Architecture: amd64
 Maintainer: Fabio Utzig <utzig@apache.org>
-Installed-Size: 12163
+Installed-Size: 12199
 Depends: libc6 (>= 2.4)
 Homepage: https://mynewt.apache.org
 Priority: optional
 Section: main
-Filename: pool/main/n/newtmgr/newtmgr_1.8.0-1_amd64.deb
-Size: 3481092
-SHA256: 5bc5fd07d6c34dc72be7797524dcc6a57b93802f6f6f54fab47091237413ba0a
-SHA1: df3d3b40cac6a1e88ce28b6ac3672656fdfac153
-MD5sum: 0b446144897da42c7dacbc9a406a5173
+Filename: pool/main/n/newtmgr/newtmgr_1.9.0-1_amd64.deb
+Size: 3493188
+SHA256: 80de2dcbdf6645f3c2f8d3959fb825222c4656b205f93b1dd315d94eba2696fe
+SHA1: 9a981b7db63026233b69cb8168395942d1080ad2
+MD5sum: e9089d306ae088569ff085d06a3f5d78
 Description: Tool to communicate with Mynewt OS devices
 
